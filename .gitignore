@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables & Streamlit secrets
+.env
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ensure ML models and evaluation artifacts are explicitly tracked
+!model/model.keras
+!model/class_names.json
+!model/metrics.json
+!data/dataset.csv
+!data/audit.json

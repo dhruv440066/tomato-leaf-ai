@@ -1,0 +1,33 @@
+{
+  "class_names": [
+    "Bacterial_spot",
+    "Early_blight",
+    "Late_blight",
+    "Leaf_Mold",
+    "Septoria_leaf_spot",
+    "Spider_mites Two-spotted_spider_mite",
+    "Target_Spot",
+    "Tomato_Yellow_Leaf_Curl_Virus",
+    "Tomato_mosaic_virus",
+    "healthy",
+    "powdery_mildew"
+  ],
+  "pretty_names": [
+    "Bacterial spot",
+    "Early blight",
+    "Late blight",
+    "Leaf Mold",
+    "Septoria leaf spot",
+    "Spider mites Two-spotted spider mite",
+    "Target Spot",
+    "Tomato Yellow Leaf Curl Virus",
+    "Tomato mosaic virus",
+    "healthy",
+    "powdery mildew"
+  ],
+  "img_size": [
+    128,
+    128
+  ],
+  "gradcam_layer": null
+}
